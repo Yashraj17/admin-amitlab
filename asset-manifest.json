@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/amit-labs/static/css/main.361c4a4c.css",
-    "main.js": "/amit-labs/static/js/main.e7aca286.js",
-    "static/js/787.d1d4a2c2.chunk.js": "/amit-labs/static/js/787.d1d4a2c2.chunk.js",
-    "static/media/chemical.png": "/amit-labs/static/media/chemical.42a0e750ed03d8fce6c2.png",
-    "static/media/Labware.png": "/amit-labs/static/media/Labware.17e3547a4e5594bb9bf3.png",
-    "static/media/LabInstrument.png": "/amit-labs/static/media/LabInstrument.6e778826c075c4ffef77.png",
-    "static/media/Chemicles.png": "/amit-labs/static/media/Chemicles.5c1399f523d5eecb10f6.png",
-    "static/media/footer.png": "/amit-labs/static/media/footer.0bb7042e6061093eb911.png",
-    "static/media/Gases.png": "/amit-labs/static/media/Gases.28972374e6b3bfb363c9.png",
-    "static/media/login.jpg": "/amit-labs/static/media/login.b754eb7683e25a120003.jpg",
-    "static/media/LifeScience.png": "/amit-labs/static/media/LifeScience.3a35f3181f86b8d2103e.png",
-    "static/media/logo.svg": "/amit-labs/static/media/logo.667577e1045c07ace85c01e14cadcb32.svg",
-    "index.html": "/amit-labs/index.html",
-    "main.361c4a4c.css.map": "/amit-labs/static/css/main.361c4a4c.css.map",
-    "main.e7aca286.js.map": "/amit-labs/static/js/main.e7aca286.js.map",
-    "787.d1d4a2c2.chunk.js.map": "/amit-labs/static/js/787.d1d4a2c2.chunk.js.map"
+    "main.css": "/amit-lab/admin/static/css/main.8d5f4ba3.css",
+    "main.js": "/amit-lab/admin/static/js/main.387582ab.js",
+    "static/js/866.66775c5f.chunk.js": "/amit-lab/admin/static/js/866.66775c5f.chunk.js",
+    "static/js/94.70316e0f.chunk.js": "/amit-lab/admin/static/js/94.70316e0f.chunk.js",
+    "static/js/787.3ce4cc4d.chunk.js": "/amit-lab/admin/static/js/787.3ce4cc4d.chunk.js",
+    "static/js/113.55e1b6d1.chunk.js": "/amit-lab/admin/static/js/113.55e1b6d1.chunk.js",
+    "static/js/638.64487b49.chunk.js": "/amit-lab/admin/static/js/638.64487b49.chunk.js",
+    "index.html": "/amit-lab/admin/index.html",
+    "main.8d5f4ba3.css.map": "/amit-lab/admin/static/css/main.8d5f4ba3.css.map",
+    "main.387582ab.js.map": "/amit-lab/admin/static/js/main.387582ab.js.map",
+    "866.66775c5f.chunk.js.map": "/amit-lab/admin/static/js/866.66775c5f.chunk.js.map",
+    "94.70316e0f.chunk.js.map": "/amit-lab/admin/static/js/94.70316e0f.chunk.js.map",
+    "787.3ce4cc4d.chunk.js.map": "/amit-lab/admin/static/js/787.3ce4cc4d.chunk.js.map",
+    "113.55e1b6d1.chunk.js.map": "/amit-lab/admin/static/js/113.55e1b6d1.chunk.js.map",
+    "638.64487b49.chunk.js.map": "/amit-lab/admin/static/js/638.64487b49.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.361c4a4c.css",
-    "static/js/main.e7aca286.js"
+    "static/css/main.8d5f4ba3.css",
+    "static/js/main.387582ab.js"
   ]
 }
